@@ -1,0 +1,1546 @@
+[
+ {
+   "teencode": "acc",
+   "mean": "account"
+ },
+ {
+   "teencode": "ace",
+   "mean": "anh chị em"
+ },
+ {
+   "teencode": "ad",
+   "mean": "admin"
+ },
+ {
+   "teencode": "ae",
+   "mean": "anh em"
+ },
+ {
+   "teencode": "ah",
+   "mean": "à"
+ },
+ {
+   "teencode": "àh",
+   "mean": "à"
+ },
+ {
+   "teencode": "ạh",
+   "mean": "ạ"
+ },
+ {
+   "teencode": "àk",
+   "mean": "à"
+ },
+ {
+   "teencode": "ák",
+   "mean": "á"
+ },
+ {
+   "teencode": "ạk",
+   "mean": "ạ"
+ },
+ {
+   "teencode": "atsm",
+   "mean": "ảo tưởng sức mạnh"
+ },
+ {
+   "teencode": "atrai",
+   "mean": "anh trai"
+ },
+ {
+   "teencode": "aye",
+   "mean": "anh yêu em"
+ },
+ {
+   "teencode": "baoh",
+   "mean": "bao giờ"
+ },
+ {
+   "teencode": "bằg",
+   "mean": "bằng"
+ },
+ {
+   "teencode": "bbè",
+   "mean": "bạn bè"
+ },
+ {
+   "teencode": "bgái",
+   "mean": "bạn gái"
+ },
+ {
+   "teencode": "biet",
+   "mean": "biết"
+ },
+ {
+   "teencode": "biêt",
+   "mean": "biết"
+ },
+ {
+   "teencode": "bìh",
+   "mean": "bình"
+ },
+ {
+   "teencode": "bik",
+   "mean": "biết"
+ },
+ {
+   "teencode": "bme",
+   "mean": "bố mẹ"
+ },
+ {
+   "teencode": "bn",
+   "mean": "bạn"
+ },
+ {
+   "teencode": "bnhiêu",
+   "mean": "bao nhiêu"
+ },
+ {
+   "teencode": "bnhiu",
+   "mean": "bao nhiêu"
+ },
+ {
+   "teencode": "bóg",
+   "mean": "bóng"
+ },
+ {
+   "teencode": "bsĩ",
+   "mean": "bác sĩ"
+ },
+ {
+   "teencode": "bsvv",
+   "mean": "buổi sáng vui vẻ"
+ },
+ {
+   "teencode": "bth",
+   "mean": "bình thường"
+ },
+ {
+   "teencode": "bthường",
+   "mean": "bình thường"
+ },
+ {
+   "teencode": "btrai",
+   "mean": "bạn trai"
+ },
+ {
+   "teencode": "buôg",
+   "mean": "buông"
+ },
+ {
+   "teencode": "càg",
+   "mean": "càng"
+ },
+ {
+   "teencode": "cbị",
+   "mean": "chuẩn bị"
+ },
+ {
+   "teencode": "cđời",
+   "mean": "cuộc đời"
+ },
+ {
+   "teencode": "ce",
+   "mean": "chị em"
+ },
+ {
+   "teencode": "cgai",
+   "mean": "con gái"
+ },
+ {
+   "teencode": "cgái",
+   "mean": "con gái"
+ },
+ {
+   "teencode": "cj",
+   "mean": "chị"
+ },
+ {
+   "teencode": "ck",
+   "mean": "chồng"
+ },
+ {
+   "teencode": "cka",
+   "mean": "cha"
+ },
+ {
+   "teencode": "clmm",
+   "mean": "cái lồn mẹ mày"
+ },
+ {
+   "teencode": "cmày",
+   "mean": "chúng mày"
+ },
+ {
+   "teencode": "cmm",
+   "mean": "con mẹ mày"
+ },
+ {
+   "teencode": "cmn",
+   "mean": "con mẹ nó"
+ },
+ {
+   "teencode": "cmnd",
+   "mean": "chứng minh nhân dân"
+ },
+ {
+   "teencode": "cmnr",
+   "mean": "con mẹ nó rồi"
+ },
+ {
+   "teencode": "cmt",
+   "mean": "comment"
+ },
+ {
+   "teencode": "csong",
+   "mean": "cuộc sống"
+ },
+ {
+   "teencode": "csống",
+   "mean": "cuộc sống"
+ },
+ {
+   "teencode": "cta",
+   "mean": "chúng ta"
+ },
+ {
+   "teencode": "ctác",
+   "mean": "công tác"
+ },
+ {
+   "teencode": "cty",
+   "mean": "công ty"
+ },
+ {
+   "teencode": "ctr",
+   "mean": "chương trình"
+ },
+ {
+   "teencode": "ctrai",
+   "mean": "con trai"
+ },
+ {
+   "teencode": "ctraj",
+   "mean": "con trai"
+ },
+ {
+   "teencode": "ctrinh",
+   "mean": "chương trình"
+ },
+ {
+   "teencode": "ctrình",
+   "mean": "chương trình"
+ },
+ {
+   "teencode": "cùg",
+   "mean": "cùng"
+ },
+ {
+   "teencode": "cũg",
+   "mean": "cũng"
+ },
+ {
+   "teencode": "cũng z",
+   "mean": "cũng vậy"
+ },
+ {
+   "teencode": "cv",
+   "mean": "công việc"
+ },
+ {
+   "teencode": "cviec",
+   "mean": "công việc"
+ },
+ {
+   "teencode": "cx",
+   "mean": "cũng"
+ },
+ {
+   "teencode": "chàg",
+   "mean": "chàng"
+ },
+ {
+   "teencode": "chăg",
+   "mean": "chăng"
+ },
+ {
+   "teencode": "chk",
+   "mean": "chồng"
+ },
+ {
+   "teencode": "chs",
+   "mean": "chẳng hiểu sao"
+ },
+ {
+   "teencode": "chta",
+   "mean": "chúng ta"
+ },
+ {
+   "teencode": "chuện",
+   "mean": "chuyện"
+ },
+ {
+   "teencode": "chug",
+   "mean": "chung"
+ },
+ {
+   "teencode": "chúg",
+   "mean": "chúng"
+ },
+ {
+   "teencode": "dàh",
+   "mean": "dành"
+ },
+ {
+   "teencode": "dc",
+   "mean": "được"
+ },
+ {
+   "teencode": "dòg",
+   "mean": "dòng"
+ },
+ {
+   "teencode": "dthương",
+   "mean": "dễ thương"
+ },
+ {
+   "teencode": "dừg",
+   "mean": "dừng"
+ },
+ {
+   "teencode": "dz",
+   "mean": "đẹp trai"
+ },
+ {
+   "teencode": "dzậy",
+   "mean": "dậy"
+ },
+ {
+   "teencode": "dzề",
+   "mean": "về"
+ },
+ {
+   "teencode": "dzìa",
+   "mean": "về"
+ },
+ {
+   "teencode": "dzô",
+   "mean": "vô"
+ },
+ {
+   "teencode": "đag",
+   "mean": "đang"
+ },
+ {
+   "teencode": "đág",
+   "mean": "đáng"
+ },
+ {
+   "teencode": "đáh",
+   "mean": "đánh"
+ },
+ {
+   "teencode": "đại ka",
+   "mean": "đại ca"
+ },
+ {
+   "teencode": "đbh",
+   "mean": "đéo bao giờ"
+ },
+ {
+   "teencode": "đc",
+   "mean": "được"
+ },
+ {
+   "teencode": "đcsvn",
+   "mean": "đảng cộng sản việt nam"
+ },
+ {
+   "teencode": "đhbkhn",
+   "mean": "đại học bách khoa hà nội"
+ },
+ {
+   "teencode": "đhkhtn",
+   "mean": "đại học khoa học tự nhiên"
+ },
+ {
+   "teencode": "đhọc",
+   "mean": "đại học"
+ },
+ {
+   "teencode": "đhs",
+   "mean": "đéo hiểu sao"
+ },
+ {
+   "teencode": "địh",
+   "mean": "định"
+ },
+ {
+   "teencode": "đii",
+   "mean": "đi"
+ },
+ {
+   "teencode": "điiiiiii",
+   "mean": "đi"
+ },
+ {
+   "teencode": "đjên",
+   "mean": "điên"
+ },
+ {
+   "teencode": "đk",
+   "mean": "đăng ký"
+ },
+ {
+   "teencode": "đki",
+   "mean": "đăng ký"
+ },
+ {
+   "teencode": "đkiện",
+   "mean": "điều kiện"
+ },
+ {
+   "teencode": "đky",
+   "mean": "đăng ký"
+ },
+ {
+   "teencode": "đóg",
+   "mean": "đóng"
+ },
+ {
+   "teencode": "đôg",
+   "mean": "đông"
+ },
+ {
+   "teencode": "đồg",
+   "mean": "đồng"
+ },
+ {
+   "teencode": "độg",
+   "mean": "động"
+ },
+ {
+   "teencode": "đt",
+   "mean": "điện thoại"
+ },
+ {
+   "teencode": "đtqg",
+   "mean": "đội tuyển quốc gia"
+ },
+ {
+   "teencode": "đthoai",
+   "mean": "điện thoại"
+ },
+ {
+   "teencode": "đthoại",
+   "mean": "điện thoại"
+ },
+ {
+   "teencode": "đứg",
+   "mean": "đứng"
+ },
+ {
+   "teencode": "đươc",
+   "mean": "được"
+ },
+ {
+   "teencode": "đz",
+   "mean": "đẹp giai"
+ },
+ {
+   "teencode": "đzai",
+   "mean": "đẹp trai"
+ },
+ {
+   "teencode": "e",
+   "mean": "em"
+ },
+ {
+   "teencode": "eya",
+   "mean": "em yêu anh"
+ },
+ {
+   "teencode": "face",
+   "mean": "facebook"
+ },
+ {
+   "teencode": "fải",
+   "mean": "phải"
+ },
+ {
+   "teencode": "fây",
+   "mean": "phây"
+ },
+ {
+   "teencode": "fb",
+   "mean": "facebook"
+ },
+ {
+   "teencode": "fen",
+   "mean": "friend"
+ },
+ {
+   "teencode": "gắg",
+   "mean": "gắng"
+ },
+ {
+   "teencode": "gđ",
+   "mean": "gia đình"
+ },
+ {
+   "teencode": "gđình",
+   "mean": "gia đinh"
+ },
+ {
+   "teencode": "giốg",
+   "mean": "giống"
+ },
+ {
+   "teencode": "hahah",
+   "mean": "ha ha"
+ },
+ {
+   "teencode": "haj",
+   "mean": "hai"
+ },
+ {
+   "teencode": "hajzz",
+   "mean": "hai"
+ },
+ {
+   "teencode": "hđộng",
+   "mean": "hành động"
+ },
+ {
+   "teencode": "hêhê",
+   "mean": "hê hê"
+ },
+ {
+   "teencode": "hìh",
+   "mean": "hình"
+ },
+ {
+   "teencode": "hiha",
+   "mean": "hi ha"
+ },
+ {
+   "teencode": "hjhj",
+   "mean": "hi hi"
+ },
+ {
+   "teencode": "hjx",
+   "mean": "hix"
+ },
+ {
+   "teencode": "hkì",
+   "mean": "học kỳ"
+ },
+ {
+   "teencode": "hnay",
+   "mean": "hôm nay"
+ },
+ {
+   "teencode": "hok",
+   "mean": "không"
+ },
+ {
+   "teencode": "họk",
+   "mean": "học"
+ },
+ {
+   "teencode": "hong kong",
+   "mean": "hồng kông"
+ },
+ {
+   "teencode": "hoy",
+   "mean": "thôi"
+ },
+ {
+   "teencode": "hôg",
+   "mean": "không"
+ },
+ {
+   "teencode": "hphúc",
+   "mean": "hạnh phúc"
+ },
+ {
+   "teencode": "hqua",
+   "mean": "hôm qua"
+ },
+ {
+   "teencode": "hsơ",
+   "mean": "hồ sơ"
+ },
+ {
+   "teencode": "htrc",
+   "mean": "hôm trước"
+ },
+ {
+   "teencode": "ib",
+   "mean": "inbox"
+ },
+ {
+   "teencode": "ik",
+   "mean": "đi"
+ },
+ {
+   "teencode": "in4",
+   "mean": "info"
+ },
+ {
+   "teencode": "insta",
+   "mean": "instagram"
+ },
+ {
+   "teencode": "iu",
+   "mean": "yêu"
+ },
+ {
+   "teencode": "j",
+   "mean": "gì"
+ },
+ {
+   "teencode": "ji",
+   "mean": "gì"
+ },
+ {
+   "teencode": "jo",
+   "mean": "giờ"
+ },
+ {
+   "teencode": "júp",
+   "mean": "giúp"
+ },
+ {
+   "teencode": "k",
+   "mean": "không"
+ },
+ {
+   "teencode": "K0",
+   "mean": "không"
+ },
+ {
+   "teencode": "kái",
+   "mean": "cái"
+ },
+ {
+   "teencode": "kảm",
+   "mean": "cảm"
+ },
+ {
+   "teencode": "kậu",
+   "mean": "cậu"
+ },
+ {
+   "teencode": "kb",
+   "mean": "kết bạn"
+ },
+ {
+   "teencode": "keke",
+   "mean": "ce ce"
+ },
+ {
+   "teencode": "kêh",
+   "mean": "kênh"
+ },
+ {
+   "teencode": "kih",
+   "mean": "kinh"
+ },
+ {
+   "teencode": "klq",
+   "mean": "không liên quan"
+ },
+ {
+   "teencode": "ko",
+   "mean": "không"
+ },
+ {
+   "teencode": "kòn",
+   "mean": "còn"
+ },
+ {
+   "teencode": "kô",
+   "mean": "không"
+ },
+ {
+   "teencode": "kqua",
+   "mean": "kết quả"
+ },
+ {
+   "teencode": "ksao",
+   "mean": "không sao"
+ },
+ {
+   "teencode": "kte",
+   "mean": "kinh tế"
+ },
+ {
+   "teencode": "ktra",
+   "mean": "kiểm tra"
+ },
+ {
+   "teencode": "ku",
+   "mean": "cu"
+ },
+ {
+   "teencode": "kủa",
+   "mean": "của"
+ },
+ {
+   "teencode": "kũg",
+   "mean": "cũng"
+ },
+ {
+   "teencode": "kh",
+   "mean": "không"
+ },
+ {
+   "teencode": "khg",
+   "mean": "không"
+ },
+ {
+   "teencode": "khoảg",
+   "mean": "khoảng"
+ },
+ {
+   "teencode": "khox",
+   "mean": "khóc"
+ },
+ {
+   "teencode": "khôg",
+   "mean": "không"
+ },
+ {
+   "teencode": "khum",
+   "mean": "không"
+ },
+ {
+   "teencode": "lạh",
+   "mean": "lạnh"
+ },
+ {
+   "teencode": "lặg",
+   "mean": "lặng"
+ },
+ {
+   "teencode": "lgi",
+   "mean": "làm gì"
+ },
+ {
+   "teencode": "llac",
+   "mean": "liên lạc"
+ },
+ {
+   "teencode": "lm",
+   "mean": "làm"
+ },
+ {
+   "teencode": "lmht",
+   "mean": "liên minh huyền thoại"
+ },
+ {
+   "teencode": "lòg",
+   "mean": "lòng"
+ },
+ {
+   "teencode": "lquan",
+   "mean": "liên quan"
+ },
+ {
+   "teencode": "lquen",
+   "mean": "làm quen"
+ },
+ {
+   "teencode": "ltinh",
+   "mean": "linh tinh"
+ },
+ {
+   "teencode": "lúk",
+   "mean": "lúc"
+ },
+ {
+   "teencode": "lz",
+   "mean": "làm gì"
+ },
+ {
+   "teencode": "lzi",
+   "mean": "làm gì"
+ },
+ {
+   "teencode": "m",
+   "mean": "mày"
+ },
+ {
+   "teencode": "mih",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mik",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mik",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mìnk",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mjh",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mk",
+   "mean": "mình"
+ },
+ {
+   "teencode": "mn",
+   "mean": "mọi người"
+ },
+ {
+   "teencode": "mng",
+   "mean": "mọi người"
+ },
+ {
+   "teencode": "mớj",
+   "mean": "mới"
+ },
+ {
+   "teencode": "mơm",
+   "mean": "cảm ơn    "
+ },
+ {
+   "teencode": "mqh",
+   "mean": "mối quan hệ"
+ },
+ {
+   "teencode": "ms",
+   "mean": "mới"
+ },
+ {
+   "teencode": "my fen",
+   "mean": "my friend"
+ },
+ {
+   "teencode": "nàg",
+   "mean": "nàng"
+ },
+ {
+   "teencode": "nayd",
+   "mean": "này"
+ },
+ {
+   "teencode": "năg",
+   "mean": "năng"
+ },
+ {
+   "teencode": "nắg",
+   "mean": "nắng"
+ },
+ {
+   "teencode": "nặg",
+   "mean": "nặng"
+ },
+ {
+   "teencode": "nch",
+   "mean": "nói chuyện"
+ },
+ {
+   "teencode": "nek",
+   "mean": "nè"
+ },
+ {
+   "teencode": "nèk",
+   "mean": "nè"
+ },
+ {
+   "teencode": "nkư",
+   "mean": "như"
+ },
+ {
+   "teencode": "nkưng",
+   "mean": "nhưng"
+ },
+ {
+   "teencode": "nógn",
+   "mean": "nóng"
+ },
+ {
+   "teencode": "ns",
+   "mean": "nói"
+ },
+ {
+   "teencode": "nta",
+   "mean": "người ta"
+ },
+ {
+   "teencode": "ntn",
+   "mean": "như thế nào"
+ },
+ {
+   "teencode": "ntnao",
+   "mean": "như thế nào"
+ },
+ {
+   "teencode": "ntnày",
+   "mean": "như thế này"
+ },
+ {
+   "teencode": "nthe",
+   "mean": "như thế"
+ },
+ {
+   "teencode": "nthê",
+   "mean": "như thế"
+ },
+ {
+   "teencode": "nthế",
+   "mean": "như thế"
+ },
+ {
+   "teencode": "nvay",
+   "mean": "như vậy"
+ },
+ {
+   "teencode": "nvậy",
+   "mean": "như vậy"
+ },
+ {
+   "teencode": "nvqs",
+   "mean": "nghĩa vụ quân sự"
+ },
+ {
+   "teencode": "ny",
+   "mean": "người yêu"
+ },
+ {
+   "teencode": "nyc",
+   "mean": "người yêu cũ"
+ },
+ {
+   "teencode": "nyêu",
+   "mean": "người yêu"
+ },
+ {
+   "teencode": "ng",
+   "mean": "người"
+ },
+ {
+   "teencode": "ngag",
+   "mean": "ngang"
+ },
+ {
+   "teencode": "ngàh",
+   "mean": "ngành"
+ },
+ {
+   "teencode": "ngđo",
+   "mean": "người đó"
+ },
+ {
+   "teencode": "ngđó",
+   "mean": "người đó"
+ },
+ {
+   "teencode": "ngèo",
+   "mean": "nghèo"
+ },
+ {
+   "teencode": "nghành",
+   "mean": "ngành"
+ },
+ {
+   "teencode": "ngía",
+   "mean": "nghía"
+ },
+ {
+   "teencode": "ngke",
+   "mean": "nghe"
+ },
+ {
+   "teencode": "ngkhác",
+   "mean": "người khác"
+ },
+ {
+   "teencode": "ngốk",
+   "mean": "ngốc"
+ },
+ {
+   "teencode": "ngta",
+   "mean": "người ta"
+ },
+ {
+   "teencode": "nguoi",
+   "mean": "người"
+ },
+ {
+   "teencode": "ngừoi",
+   "mean": "người"
+ },
+ {
+   "teencode": "ngyeu",
+   "mean": "người yêu"
+ },
+ {
+   "teencode": "nhaa",
+   "mean": "nha"
+ },
+ {
+   "teencode": "nhiềuuu",
+   "mean": "nhiều"
+ },
+ {
+   "teencode": "nhjeu",
+   "mean": "nhiều"
+ },
+ {
+   "teencode": "nhoé",
+   "mean": "nhé"
+ },
+ {
+   "teencode": "nhưg",
+   "mean": "nhưng"
+ },
+ {
+   "teencode": "nhữg",
+   "mean": "những"
+ },
+ {
+   "teencode": "nhưq",
+   "mean": "nhưng"
+ },
+ {
+   "teencode": "oh",
+   "mean": "ồ"
+ },
+ {
+   "teencode": "on lai",
+   "mean": "online"
+ },
+ {
+   "teencode": "onl",
+   "mean": "online"
+ },
+ {
+   "teencode": "oy",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "òy",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "ơiii",
+   "mean": "ơi"
+ },
+ {
+   "teencode": "ơiiii",
+   "mean": "ơi"
+ },
+ {
+   "teencode": "pjt",
+   "mean": "biết"
+ },
+ {
+   "teencode": "plz",
+   "mean": "please"
+ },
+ {
+   "teencode": "pn",
+   "mean": "bạn"
+ },
+ {
+   "teencode": "phog",
+   "mean": "phong"
+ },
+ {
+   "teencode": "phòg",
+   "mean": "phòng"
+ },
+ {
+   "teencode": "qà",
+   "mean": "quà"
+ },
+ {
+   "teencode": "qả",
+   "mean": "quả"
+ },
+ {
+   "teencode": "qá",
+   "mean": "quá"
+ },
+ {
+   "teencode": "qc",
+   "mean": "quảng cáo"
+ },
+ {
+   "teencode": "qhe",
+   "mean": "quan hệ"
+ },
+ {
+   "teencode": "qhệ",
+   "mean": "quan hệ"
+ },
+ {
+   "teencode": "qq",
+   "mean": "quằn què"
+ },
+ {
+   "teencode": "qtam",
+   "mean": "quan tâm"
+ },
+ {
+   "teencode": "qtâm",
+   "mean": "quan tâm"
+ },
+ {
+   "teencode": "qtrọng",
+   "mean": "quan trọng"
+ },
+ {
+   "teencode": "quí",
+   "mean": "quý"
+ },
+ {
+   "teencode": "r",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "răg",
+   "mean": "răng"
+ },
+ {
+   "teencode": "rằg",
+   "mean": "rằng"
+ },
+ {
+   "teencode": "rì",
+   "mean": "gì"
+ },
+ {
+   "teencode": "riêg",
+   "mean": "riêng"
+ },
+ {
+   "teencode": "rồii",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "sđt",
+   "mean": "số điện thoại"
+ },
+ {
+   "teencode": "sg",
+   "mean": "sài gòn"
+ },
+ {
+   "teencode": "sml",
+   "mean": "sấp mặt lờ"
+ },
+ {
+   "teencode": "snvv",
+   "mean": "sinh nhật vui vẻ"
+ },
+ {
+   "teencode": "snghĩ",
+   "mean": "suy nghĩ"
+ },
+ {
+   "teencode": "sốg",
+   "mean": "sống"
+ },
+ {
+   "teencode": "sr",
+   "mean": "sorry"
+ },
+ {
+   "teencode": "stk",
+   "mean": "số tài khoản"
+ },
+ {
+   "teencode": "sub",
+   "mean": "subcribe"
+ },
+ {
+   "teencode": "sv",
+   "mean": "sinh viên"
+ },
+ {
+   "teencode": "sviên",
+   "mean": "sinh viên"
+ },
+ {
+   "teencode": "svtn",
+   "mean": "sinh viên tình nguyện"
+ },
+ {
+   "teencode": "t",
+   "mean": "tao"
+ },
+ {
+   "teencode": "tcảm",
+   "mean": "tình cảm"
+ },
+ {
+   "teencode": "tđn",
+   "mean": "thế đéo nào"
+ },
+ {
+   "teencode": "tgdd",
+   "mean": "thế giới di động"
+ },
+ {
+   "teencode": "tgian",
+   "mean": "thời gian"
+ },
+ {
+   "teencode": "tiếg",
+   "mean": "tiếng"
+ },
+ {
+   "teencode": "tìh",
+   "mean": "tình"
+ },
+ {
+   "teencode": "tíh",
+   "mean": "tính"
+ },
+ {
+   "teencode": "tks",
+   "mean": "thanks"
+ },
+ {
+   "teencode": "tlai",
+   "mean": "tương lai"
+ },
+ {
+   "teencode": "tnào",
+   "mean": "thế nào"
+ },
+ {
+   "teencode": "tq",
+   "mean": "trung quốc"
+ },
+ {
+   "teencode": "từg",
+   "mean": "từng"
+ },
+ {
+   "teencode": "tưởg",
+   "mean": "tưởng"
+ },
+ {
+   "teencode": "tượg",
+   "mean": "tượng"
+ },
+ {
+   "teencode": "tyêu",
+   "mean": "tình yêu"
+ },
+ {
+   "teencode": "tym",
+   "mean": "tim"
+ },
+ {
+   "teencode": "thàh",
+   "mean": "thành"
+ },
+ {
+   "teencode": "thằg",
+   "mean": "thằng"
+ },
+ {
+   "teencode": "thẳg",
+   "mean": "thẳng"
+ },
+ {
+   "teencode": "thgian",
+   "mean": "thời gian"
+ },
+ {
+   "teencode": "thíck",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thich",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thik",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thík",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thjc",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thjk",
+   "mean": "thích"
+ },
+ {
+   "teencode": "thoy",
+   "mean": "thôi"
+ },
+ {
+   "teencode": "thôii",
+   "mean": "thôi"
+ },
+ {
+   "teencode": "thpt",
+   "mean": "trung học phổ thông"
+ },
+ {
+   "teencode": "thui",
+   "mean": "thôi"
+ },
+ {
+   "teencode": "thuj",
+   "mean": "thôi"
+ },
+ {
+   "teencode": "thuơng",
+   "mean": "thương"
+ },
+ {
+   "teencode": "thươg",
+   "mean": "thương"
+ },
+ {
+   "teencode": "thườg",
+   "mean": "thường"
+ },
+ {
+   "teencode": "thỳ",
+   "mean": "thì"
+ },
+ {
+   "teencode": "thým",
+   "mean": "thím"
+ },
+ {
+   "teencode": "trag",
+   "mean": "trang"
+ },
+ {
+   "teencode": "trc",
+   "mean": "trước"
+ },
+ {
+   "teencode": "trieu",
+   "mean": "triệu"
+ },
+ {
+   "teencode": "troai",
+   "mean": "trai"
+ },
+ {
+   "teencode": "trog",
+   "mean": "trong"
+ },
+ {
+   "teencode": "trọg",
+   "mean": "trọng"
+ },
+ {
+   "teencode": "trườg",
+   "mean": "trường"
+ },
+ {
+   "teencode": "u hai ba",
+   "mean": "u23"
+ },
+ {
+   "teencode": "uh",
+   "mean": "ừ"
+ },
+ {
+   "teencode": "uhm",
+   "mean": "ừm"
+ },
+ {
+   "teencode": "uk",
+   "mean": "ừ"
+ },
+ {
+   "teencode": "ukm",
+   "mean": "ừm"
+ },
+ {
+   "teencode": "unf",
+   "mean": "unfriend"
+ },
+ {
+   "teencode": "uốg",
+   "mean": "uống"
+ },
+ {
+   "teencode": "ừng",
+   "mean": "đừng"
+ },
+ {
+   "teencode": "vc",
+   "mean": "vợ chồng"
+ },
+ {
+   "teencode": "vd",
+   "mean": "ví dụ"
+ },
+ {
+   "teencode": "vde",
+   "mean": "vấn đề"
+ },
+ {
+   "teencode": "vđ",
+   "mean": "vãi đái"
+ },
+ {
+   "teencode": "vđê",
+   "mean": "vấn đề"
+ },
+ {
+   "teencode": "vk",
+   "mean": "vợ"
+ },
+ {
+   "teencode": "vn",
+   "mean": "việt nam"
+ },
+ {
+   "teencode": "vọg",
+   "mean": "vọng"
+ },
+ {
+   "teencode": "vớii",
+   "mean": "với"
+ },
+ {
+   "teencode": "vs",
+   "mean": "với"
+ },
+ {
+   "teencode": "vv",
+   "mean": "vui vẻ"
+ },
+ {
+   "teencode": "wa",
+   "mean": "quá"
+ },
+ {
+   "teencode": "wá",
+   "mean": "quá"
+ },
+ {
+   "teencode": "wtâm",
+   "mean": "quan tâm"
+ },
+ {
+   "teencode": "wtf",
+   "mean": "what the fuck"
+ },
+ {
+   "teencode": "xg",
+   "mean": "xuống"
+ },
+ {
+   "teencode": "xih",
+   "mean": "xinh"
+ },
+ {
+   "teencode": "xink",
+   "mean": "xinh"
+ },
+ {
+   "teencode": "xl",
+   "mean": "xin lỗi"
+ },
+ {
+   "teencode": "xloi",
+   "mean": "xin lỗi"
+ },
+ {
+   "teencode": "xog",
+   "mean": "xong"
+ },
+ {
+   "teencode": "xug",
+   "mean": "xùng"
+ },
+ {
+   "teencode": "xuốg",
+   "mean": "xuống"
+ },
+ {
+   "teencode": "ytb",
+   "mean": "youtube"
+ },
+ {
+   "teencode": "z",
+   "mean": "vậy"
+ },
+ {
+   "teencode": "z là",
+   "mean": "vậy là"
+ },
+ {
+   "teencode": "zà",
+   "mean": "già"
+ },
+ {
+   "teencode": "zạ",
+   "mean": "vậy"
+ },
+ {
+   "teencode": "zám",
+   "mean": "dám"
+ },
+ {
+   "teencode": "zậy",
+   "mean": "vậy"
+ },
+ {
+   "teencode": "zẻ",
+   "mean": "vẻ"
+ },
+ {
+   "teencode": "zìa",
+   "mean": "gì"
+ },
+ {
+   "teencode": "zô",
+   "mean": "vô"
+ },
+ {
+   "teencode": "zô",
+   "mean": "dô"
+ },
+ {
+   "teencode": "zồi",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "zú",
+   "mean": "vú"
+ },
+ {
+   "teencode": "zui",
+   "mean": "vui"
+ },
+ {
+   "teencode": "zùi",
+   "mean": "rồi"
+ },
+ {
+   "teencode": "zữ",
+   "mean": "dữ"
+ },
+ {
+   "teencode": "zừa",
+   "mean": "vừa"
+ }
+]
